@@ -50,6 +50,9 @@ h3{
     color: white;
     font-size: 30px;
 }
+.box{
+    cursor: pointer;
+}
 
 #result{
     position: absolute;
